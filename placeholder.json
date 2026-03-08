@@ -1,10 +1,10 @@
 {
   "repos": [
-    { "name": "placeholder / repo-001", "url": "https://example.com/repo-001", "priority": 1 },
-    { "name": "placeholder / repo-002", "url": "https://example.com/repo-002", "priority": 2 },
-    { "name": "placeholder / repo-003", "url": "https://example.com/repo-003", "priority": 3 },
-    { "name": "placeholder / repo-004", "url": "https://example.com/repo-004", "priority": 4 },
-    { "name": "placeholder / repo-005", "url": "https://example.com/repo-005", "priority": 5 },
+    { "name": "placeholder / repo-001", "url": "https://example.com/repo-001", "priority": 1, "tag": "game", "mirror": "https://git.minecraftlegacy.com/backups/repo-001" },
+    { "name": "placeholder / repo-002", "url": "https://example.com/repo-002", "priority": 2, "tag": "mod" },
+    { "name": "placeholder / repo-003", "url": "https://example.com/repo-003", "priority": 3, "tag": "tool", "mirror": "https://git.minecraftlegacy.com/backups/repo-003" },
+    { "name": "placeholder / repo-004", "url": "https://example.com/repo-004", "priority": 4, "tag": "converter" },
+    { "name": "placeholder / repo-005", "url": "https://example.com/repo-005", "priority": 5, "tag": "launcher", "mirror": "https://git.minecraftlegacy.com/backups/repo-005" },
     { "name": "placeholder / repo-006", "url": "https://example.com/repo-006", "priority": 6 },
     { "name": "placeholder / repo-007", "url": "https://example.com/repo-007", "priority": 7 },
     { "name": "placeholder / repo-008", "url": "https://example.com/repo-008", "priority": 8 },
